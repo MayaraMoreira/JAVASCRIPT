@@ -1,5 +1,5 @@
 /*  FUNCTIONS / FUNÇÕES
-         Trecho de código que é execultado
+         Trecho de código que é executado
          SOMENTE quando solicitado.
 */
 
